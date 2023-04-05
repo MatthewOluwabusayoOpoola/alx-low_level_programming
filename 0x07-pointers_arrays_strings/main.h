@@ -1,6 +1,3 @@
-es (13 sloc)  443 Bytes
- 
-
 #ifndef FILE_MAIN
 #define FILE_MAIN
 
